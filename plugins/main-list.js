@@ -232,6 +232,12 @@ ${readMore}
 ⎪⌲👑 _${usedPrefix}siri_
 ⎪⌲👑 _${usedPrefix}alexa_
 ⎪⌲👑 _${usedPrefix}dalle_
+⎪⌲👑 _${usedPrefix}tocartoon_
+⎪⌲👑 _${usedPrefix}quote_
+⎪⌲👑 _${usedPrefix}technews_
+⎪⌲👑 _${usedPrefix}apk_
+⎪⌲👑 _${usedPrefix}pokedex_
+⎪⌲👑 _${usedPrefix}define_
 ┗━━━ʕ•㉨•ʔ━━━┛
 
 ❀° ┄──•••───╮
